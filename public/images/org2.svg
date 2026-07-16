@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#3a6ea5"/>
+  <circle cx="200" cy="100" r="55" fill="white" opacity="0.15"/>
+  <text x="200" y="105" font-family="Arial, sans-serif" font-size="22" fill="white" text-anchor="middle" font-weight="bold">Bright Futures Reading</text>
+  <text x="200" y="140" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle" opacity="0.85">Partner Organization</text>
+</svg>
